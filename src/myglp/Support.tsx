@@ -13,7 +13,7 @@ export default function Support() {
           <article>
             <h3>Get in Touch</h3>
             <p>
-              Send questions, comments, or feature requests to <a href="mailto:support@strange-orbit.com">support@strange-orbit.com</a>.
+              Send questions, comments, or feature requests to <a href="mailto:support@myglp.app">support@myglp.app</a>.
             </p>
           </article>
           <article>
@@ -22,7 +22,7 @@ export default function Support() {
               Take a look at the privacy policy and terms of use below.
             </p>
             <div>
-              <LinkButton title="Privacy Policy" href="/myglp/privacy" />
+              <LinkButton title="Privacy Policy" href="/privacy" />
             </div>
             <div>
               <LinkButton title="Terms of Use" href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" />
