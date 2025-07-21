@@ -11,7 +11,7 @@ export function GoogleAnalytics() {
     <>
       {hasConsented() && (
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-5SFZ60L09X"
+          src="https://www.googletagmanager.com/gtag/js?id=G-WHMB6FQ3ZC"
           strategy="afterInteractive"
         />
       )}
@@ -21,7 +21,7 @@ export function GoogleAnalytics() {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-5SFZ60L09X');
+            gtag('config', 'G-WHMB6FQ3ZC');
           `}
         </Script>
       )}
