@@ -1,4 +1,4 @@
-import MarkdownRenderer from '../../../components/MarkdownRenderer';
+import MarkdownRenderer from '../../components/MarkdownRenderer';
 
 export default function Privacy() {
   return (
