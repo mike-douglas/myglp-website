@@ -1,4 +1,4 @@
 {
   "source": "remote",
-  "features": ["settings", "healthKit"]
+  "features": ["debug", "healthKit"]
 }
